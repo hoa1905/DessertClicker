@@ -1,0 +1,4 @@
+#Tue Feb 21 09:13:25 ICT 2023
+base.0=D\:\\VKU\\Nam II_Ky II\\Lap trinh di dong\\Bai tap\\Android studio\\Tuan 6\\android-kotlin-fundamentals-starter-apps-master\\DessertClicker-Starter\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
